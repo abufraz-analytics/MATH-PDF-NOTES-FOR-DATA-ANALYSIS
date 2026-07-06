@@ -27,8 +27,7 @@ Click on any day below to directly access the respective documentation folder an
 *   **[Day 02](./DAY%202)**: Analysis of mathematical averages and calculations using the Mean metric.
 *   **[Day 03](./DAY%203)**: Identifying the dataset's midpoint via Median and evaluating density through the Mode.
 *   **[Day 04](./DAY%204)**: Understanding absolute variation via Range and robust dispersion boundaries using the Interquartile Range (IQR).
-*   **[Day 05](./DAY%205)**: Quantifying general data deviation and structural spread through Variance and Standard Deviation.
-*   **[Day 06](./DAY%206)**: Assessing the structural symmetry, balanced curves, and directional tilt via Skewness.
+*   **[Day 05 & 06](./DAY%205%20%26%206)**: Quantifying general data deviation and structural spread through Variance and Standard Deviation.Assessing the structural symmetry, balanced curves, and directional tilt via Skewness.
 *   **[Day 07](./DAY%207)**: Measuring the tail-weight, profile sharpness, and peak behavior of distribution shapes through Kurtosis.
 
 ###  Phase 2: Probability Concepts
